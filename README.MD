@@ -1,6 +1,7 @@
 
 ### Kandidatoppgave 2
 
+Kandidatoppgaven består av to deloppgaver. Én skriveoppgave, og én analyseoppgave i R eller Python. Du velger selv hvordan du ønsker å presentere oppgaven. 
 
 #### Skriveoppgave 
 <img src="/resources/regresjon.png" width="500"/>
