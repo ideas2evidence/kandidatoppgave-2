@@ -4,8 +4,6 @@
 Kandidatoppgaven består av to deloppgaver. Én skriveoppgave, og én analyseoppgave i R eller Python. Du velger selv hvordan du ønsker å dele arbeidet (Word, Jupyter Notebook, R Markdown, LaTex). 
 
 #### Skriveoppgave 
-<img src="/resources/regresjon.png" width="500"/>
-
 Tabellen og figuren er basert på analyser av Kandidatundersøkelsen 2018 for Universitetet i Bergen, NHH og Høgskolen på Vestlandet. Figuren viser resultatene fra en regresjonsanalyse der estimater på høyre side indikerer en positiv effekt på jobbrelevans (dvs. om kandidatene er i relevant arbeid eller ikke). Kan du kommentere tabellen og grafen slik du ville gjort det i en rapport beregnet på et publikum som ikke er metodespesialister? Bruk ca en side.
 
 |                   |Hjemsted før studier   |	Hjemsted nå |Nettogevinst   |
@@ -29,6 +27,9 @@ Tabellen og figuren er basert på analyser av Kandidatundersøkelsen 2018 for Un
 |Troms	            |0,7 %	                |1,0 %	        |0,3 %          |
 |Finnmark	        |0,3 %	                |0,7 %	        |0,4 %          |
 |Utenfor Norge	    |4,0 %	                |4,2 %	        |0,2 %          |
+
+<img src="/resources/regresjon.png" width="500"/>
+
 
 #### Analyseoppgave
 
