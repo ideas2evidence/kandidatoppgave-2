@@ -1,7 +1,7 @@
 
 ### Kandidatoppgave 2
 
-<img src="/resources/regresjon.png" width="200"/>
+<img src="/resources/regresjon.png" width="500"/>
 
 ![Regresjon](/resources/regresjon.png | width=300)
 
