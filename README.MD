@@ -1,6 +1,8 @@
 
 ### Kandidatoppgave 2
 
+
+#### Skriveoppgave 
 <img src="/resources/regresjon.png" width="500"/>
 
 Tabellen og figuren er basert på analyser av Kandidatundersøkelsen 2018 for Universitetet i Bergen, NHH og Høgskolen på Vestlandet. Figuren viser resultatene fra en regresjonsanalyse der estimater på høyre side indikerer en positiv effekt på jobbrelevans (dvs. om kandidatene er i relevant arbeid eller ikke). Kan du kommentere tabellen og grafen slik du ville gjort det i en rapport beregnet på et publikum som ikke er metodespesialister? Bruk ca en side.
@@ -26,3 +28,11 @@ Tabellen og figuren er basert på analyser av Kandidatundersøkelsen 2018 for Un
 |Troms	            |0,7 %	                |1,0 %	        |0,3 %          |
 |Finnmark	        |0,3 %	                |0,7 %	        |0,4 %          |
 |Utenfor Norge	    |4,0 %	                |4,2 %	        |0,2 %          |
+
+#### Analyseoppgave
+
+Bruk R eller Python i denne oppgaven. 
+
+Med utgangspunkt i ESS-data, lag et datasett med aggregert statistikk (etter land og år) om tillit til demokratiet. Velg ut et land du ønsker å fokusere på og presenter funnene dine grafisk. Grafikken bør inneholde en sammenligning til øvrige europeiske land. Gjør rede for hensyn du tar underveis og aggregeringsmetode.
+
+ESS-data er tilgjengelig her: http://www.europeansocialsurvey.org. Du må lage en bruker. Det er gratis. 
