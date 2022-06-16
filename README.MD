@@ -9,7 +9,7 @@ Kandidatoppgaven består av to deloppgaver. Én skriveoppgave, og én analyseopp
 Tabellen og figuren er basert på analyser av Kandidatundersøkelsen 2018 for Universitetet i Bergen, NHH og Høgskolen på Vestlandet. Figuren viser resultatene fra en regresjonsanalyse der estimater på høyre side indikerer en positiv effekt på jobbrelevans (dvs. om kandidatene er i relevant arbeid eller ikke). Kan du kommentere tabellen og grafen slik du ville gjort det i en rapport beregnet på et publikum som ikke er metodespesialister? Bruk ca en side.
 
 |                   |Hjemsted før studier   |	Hjemsted nå |Nettogevinst   |
-|---                |---                    |---            |---            |
+|---                |---:                   |---:           |---:           |
 |Akershus           |5,6 %                  |2,8 %          |2,8 %          |
 |Hordaland          |36,9 %                 |44,6 %         |7,7 %          |
 |Oslo               |5,8 %                  |17,0 %         |11,2 %         |
